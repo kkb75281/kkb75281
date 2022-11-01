@@ -1,9 +1,3 @@
-<style>
-  * {
-    text-align: center;
-  }
-</style>
-
 ### Hi there 👋
 
 ![Gyupp's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkb75281&show_icons=true&bg_color=00000000)

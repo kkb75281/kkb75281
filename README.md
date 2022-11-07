@@ -64,6 +64,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb75281)](https://solved.ac/kkb75281)
 </div>
 
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkb75281)](https://solved.ac/kkb75281)   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb75281)](https://solved.ac/kkb75281/)
+
 
 <!-- ### Hi there 👋 -->
 

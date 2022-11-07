@@ -53,10 +53,10 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?kkb75281=kycasdzxc&layout=compact">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?kkb75281=kycasdzxc&layout=compact"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=kkb75281&show_icons=true">
 
-![Gyupp's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kkb75281)
+<!-- ![Gyupp's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kkb75281) -->
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>

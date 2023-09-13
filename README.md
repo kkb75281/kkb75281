@@ -59,9 +59,10 @@
 <!-- ![Gyupp's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kkb75281) -->
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb75281)](https://solved.ac/kkb75281)
+<div align=center>
+	<p>🏆 Baekjoon solved rank 🏆</p>
+		
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb75281)](https://solved.ac/kkb75281)
 </div>
 
 <!-- [![Solved.ac
